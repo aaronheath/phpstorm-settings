@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".env*" type="Ini" />
+      <mapping pattern="snarelcWithProductCategory" type="PLAIN_TEXT" />
+      <mapping pattern="PublicApi" type="PLAIN_TEXT" />
+      <mapping pattern="snarelc" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
